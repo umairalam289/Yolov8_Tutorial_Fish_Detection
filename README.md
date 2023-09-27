@@ -6,7 +6,7 @@ This project focuses on the detection and tracking of fish in images using the Y
 ## Table of Contents
 - [Key Features](#key-features)
 - [Usage](#usage)
-- [Training and Validation Loss](#training-and-validation-Loss)
+- [Training and Validation Loss](#training-and-validation-loss)
 - [Result Demonstration](#result-demonstration)
 - [Future Enhancements](#future-enhancements)
 
@@ -47,7 +47,7 @@ During our training process, we observed the following trends in training and va
 
 Below is a GIF showcasing the result of our model after the training process:
 
-![Result Demo](./Images/fish_output.gif)
+![Result Demo](https://github.com/Spacewalker69/Yolov8_Tutorial_Fish_Detection/blob/main/Images/fish_output.gif)
 
 ## Future Enhancements
 
